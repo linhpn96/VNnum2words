@@ -26,10 +26,11 @@ $ npm i VNnum2words
 Note: add `--save` if you are using npm < 5.0.0
 
 In Node.js(trong nodejs):
-```js
+```
+//js
 const VNnum2words = require('vn-num2words');
 console.log(VNnum2words(10000));
-   es module
+//es module
 import {default as VNnum2words} from 'vn-num2words';
 console.log(VNnum2words(10000));
 ```
