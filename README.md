@@ -21,7 +21,7 @@ module script( dùng cho module):
 Using npm:
 ```shell
 $ npm i -g npm
-$ npm i VNnum2words
+$ npm i vn-num2words
 ```
 Note: add `--save` if you are using npm < 5.0.0
 
