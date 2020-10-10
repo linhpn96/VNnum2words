@@ -1,0 +1,47 @@
+{
+  "name": "vn-num2words",
+  "version": "1.0.0",
+  "description": "convert number to vietnamese words(chuyển số thành chữ tiếng việt)",
+  "main": "./src/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linhpn96/VNnum2words.git"
+  },
+
+  "keywords": [
+    "number-to-words",
+    "vn-number2words",
+    "vn number to words",
+    "vietnam number to words",
+    "chuyển số thành chữ trong javascript",
+    "chuyển số thành chữ trong nodejs",
+    "chuyển số thành chữ tiếng việt trong nodejs",
+    "Chuyển số thành chữ trong javascript",
+    "Chuyển số thành chữ trong nodejs",
+    "Chuyển số thành chữ tiếng việt trong nodejs",
+    "Convert number to vietnamese words",
+    "numtowords",
+    "number",
+    "số",
+    "chữ",
+    "convert",
+    "chuyển đổi",
+    "to",
+    "words",
+    "conversion",
+    "in",
+    "pure",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "linhpn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linhpn96/VNnum2words/issues"
+  },
+  "homepage": "https://github.com/linhpn96/VNnum2words#readme"
+}
