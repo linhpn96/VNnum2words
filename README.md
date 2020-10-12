@@ -4,7 +4,7 @@
 **Vietnamese convert number to words by js(chuyển số thành chữ trong tiếng việt bằng ngôn ngũ javascript)**
 
 </div>
-##Installation (cài đặt)
+## installation
 
 In a browser(trong trình duyệt):
 ```html
@@ -41,10 +41,10 @@ import VNnum2words from 'vn-num2words';
 console.log(VNnum2words(10000));
 
 ```
-##warning
+## warning
 in javascript the number type is corrected true is less than 9007199254740991 so if number greater than 9007199254740991 must use string, or you can use string for all case
 trong javascript định dạng số bị giới hạn ở 9007199254740991 nên nếu số lớn hơn 9007199254740991 mời dùng kiểu chuỗi, hoặc là dùng toàn bộ là string
-##example
+## example
 
 ```
 less than 9007199254740991:
