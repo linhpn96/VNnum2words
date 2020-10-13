@@ -1,6 +1,6 @@
 {
   "name": "vn-num2words",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "convert number to vietnamese words(chuyển số thành chữ tiếng việt)",
   "main": "./src/index",
   "scripts": {
